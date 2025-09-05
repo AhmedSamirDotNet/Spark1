@@ -1,0 +1,6 @@
+@Spark.WebApi_HostAddress = http://localhost:5070
+
+GET {{Spark.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
