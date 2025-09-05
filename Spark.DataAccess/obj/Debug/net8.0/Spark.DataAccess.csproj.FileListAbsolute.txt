@@ -1,0 +1,15 @@
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\bin\Debug\net8.0\Spark.DataAccess.deps.json
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\bin\Debug\net8.0\Spark.DataAccess.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\bin\Debug\net8.0\Spark.DataAccess.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\bin\Debug\net8.0\Spark.Models.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\bin\Debug\net8.0\Spark.Models.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.csproj.AssemblyReference.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.AssemblyInfoInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.AssemblyInfo.cs
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.csproj.CoreCompileInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.Da.34B8D21D.Up2Date
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\refint\Spark.DataAccess.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\Spark.DataAccess.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.DataAccess\obj\Debug\net8.0\ref\Spark.DataAccess.dll
