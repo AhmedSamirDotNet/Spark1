@@ -1,0 +1,12 @@
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\bin\Debug\net8.0\Spark.Models.deps.json
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\bin\Debug\net8.0\Spark.Models.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\bin\Debug\net8.0\Spark.Models.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.AssemblyInfoInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.AssemblyInfo.cs
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.csproj.CoreCompileInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\refint\Spark.Models.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\ref\Spark.Models.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Models\obj\Debug\net8.0\Spark.Models.csproj.AssemblyReference.cache

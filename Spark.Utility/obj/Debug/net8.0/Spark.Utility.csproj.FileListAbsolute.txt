@@ -1,0 +1,11 @@
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\bin\Debug\net8.0\Spark.Utility.deps.json
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\bin\Debug\net8.0\Spark.Utility.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\bin\Debug\net8.0\Spark.Utility.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.AssemblyInfoInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.AssemblyInfo.cs
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.csproj.CoreCompileInputs.cache
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\refint\Spark.Utility.dll
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\Spark.Utility.pdb
+C:\E\TestApiAndSwagger\SparkProject\Spark.Utility\obj\Debug\net8.0\ref\Spark.Utility.dll
